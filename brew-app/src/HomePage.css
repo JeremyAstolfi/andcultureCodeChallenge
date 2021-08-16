@@ -1,0 +1,19 @@
+.HomePage {
+    text-align: center;
+    background-color: #FFD700;
+}
+  
+.BeerIcon {
+    height: 40vmin;
+    margin-top: 50px;
+}
+
+.SearchText {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.SearchBar {
+    height: 40vmin;
+}
+    
